@@ -1,0 +1,6 @@
+CREATE TABLE Users (
+    user_id INT PRIMARY KEY,
+    username VARCHAR(50),
+    email VARCHAR(100),
+    followers_count INT
+);
