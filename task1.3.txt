@@ -1,6 +1,0 @@
-INSERT INTO Users (user_id, username, email, followers_count)
-VALUES
-(1, 'travelwithyuvraj', 'yuvraj@gmail.com', 12500),
-(2, 'foodie_jiyan', 'jiyan@gmail.com', 8750),
-(3, 'techguru_ronak', 'ronak@gmail.com', 24300)
-(3, 'techg_rishabh', 'rishabh@gmail.com', 24000);
